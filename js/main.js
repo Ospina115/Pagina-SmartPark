@@ -1,6 +1,6 @@
-document.getElementById("negrito").addEventListener("click", gotoUrl);
+document.getElementById("negrito").addEventListener("click", iraUrl);
 
-function gotoUrl() {
+function iraUrl() {
     window.location.assign("https://api.whatsapp.com/send?phone=573152700602");
 }
 
