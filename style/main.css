@@ -9,7 +9,6 @@ body{
 #info{
     width: 50%;
     border-radius: 50px;
-    box-shadow: 20px 20px 1px #10977A;
 }
 img{
     width: 12%;
@@ -47,12 +46,21 @@ button{
     margin-top: 4%;
     margin-bottom: 10%;
 }
-#blanquito{
+a{
     color: black;
+    border: solid black;
     background-color: white;
     padding-left: 7%;
     padding-right: 7%;
     cursor: pointer;
+    font-size: 170%;
+    border-radius: 10px;
+    padding: 2%;
+    margin-right: 6%;
+    margin-top: 4%;
+    margin-bottom: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
 #negrito{
     color: rgb(255, 255, 255);

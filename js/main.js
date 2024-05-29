@@ -7,5 +7,5 @@ function iraUrl() {
 document.getElementById("blanquito").addEventListener("click", gotoUrl);
 
 function gotoUrl() {
-    window.location.assign("https://i-park.com.co/service/servicios/");
+    window.location.assign("/html/interfax.html");
 }
